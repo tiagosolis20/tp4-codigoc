@@ -1,0 +1,26 @@
+//Tiago David Garibay Solis
+//Curso= 1R1
+//legajo=410431
+#include <stdio.h>
+
+int main() {
+    int nota;
+
+    printf("Ingrese la nota: ");
+    scanf("%d", &nota);
+
+    
+    if (nota >= 90) {
+        printf("nota: A\n");
+    } else if (nota >= 80) {
+        printf("nota: B\n");
+    } else if (nota >= 70) {
+        printf("nota: C\n");
+    } else if (nota >= 60) {
+        printf("nota: D\n");
+    } else {
+        printf("nota: F\n");
+    }
+
+    return 0;
+}
