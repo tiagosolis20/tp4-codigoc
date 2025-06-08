@@ -1,0 +1,44 @@
+1.‬ ‭Convertir el binario 101001010101 en octal y en hexadecimal.‬
+‭2.‬ ‭Convertir 0xC0FEE hexadecimales a octal.‬
+‭3.‬ ‭Dado los números signados de 8 bits p=01110000 y q=01110000 realizar la suma p+q e‬
+‭indicar el resultado en decimal y binario. Tener en cuenta la cantidad de bits‬
+‭4.‬ ‭Dado los números signados de 8 bits p=01111000 y q=0001000 realizar la resta p-q e‬
+‭indicar el resultado en decimal y binario. Tener en cuenta la cantidad de bits‬
+‭5.‬ ‭Convertir el número 254,125 de decimal a formato IEEE754, indicando los pasos‬
+‭utilizados para calcular:‬
+‭a.‬ ‭signo‬
+‭b.‬ ‭exponente‬
+‭c.‬ ‭mantisa‬
+‭6.‬ ‭Realizar la suma p+r, donde p=35(decimal) y r=0xAF(hexadecimal). Considerar ambos‬
+‭como números signados de 8 bits. Expresar el resultado en decimal y binario. Tener en‬
+‭cuenta la cantidad de bits‬‬
+‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬‬
+1.
+RESULTADO:
+OCTAL:(5125)8
+HEXADECIMAL: (A55)16
+2.
+OCTAL: (6577002)8
+
+3.
+RESULTADO:
+
+BINARIO: (11100000)2
+DECIMAL: (224)10
+
+4.
+BINARIO: (01110000)2
+DECIMAL: (112)10
+5.
+A)	SIGNO POSITIVO
+B)	EXPONENTE: (10000110)2
+C)	 MANTISA: 11111100010000…
+6.
+DECIMAL: (-46)10
+BINARIO: (11010010)2
+
+
+
+
+
+
